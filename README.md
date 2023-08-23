@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -11,7 +11,7 @@ A Pokedex React Typescript CRUD Application that consumes Web API with Hooks and
 
 ![a screenshot of the web app](pokedex.png)
 
->>>>>>> e6187e8a3de1b9b01dc0e0983f3500c7ceb619e5
+
 
 ## Available Scripts
 
